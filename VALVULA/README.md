@@ -12,5 +12,5 @@ Modelo físico Servo motor SG90
 
 Soporte del Servo y leva
 
-![SOPORTE](./valvula.jpg.jpeg)
+![SOPORTE](./valvula.jpeg)
 
