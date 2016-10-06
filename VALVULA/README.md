@@ -8,7 +8,7 @@
 
 Modelo físico Servo motor SG90
 
-![]()
+![SERVO](./sg90.jpeg)
 
 Soporte del Servo y leva
 
